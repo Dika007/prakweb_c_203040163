@@ -33,7 +33,7 @@ if (isset($_POST['cari'])) {
 </head>
 
 <body>
-  <h3>Daftar buku</h3>
+  <h3>Daftar buku aku</h3>
   <a href="tambah.php">Tambah data buku</a>
   <br><br>
 
