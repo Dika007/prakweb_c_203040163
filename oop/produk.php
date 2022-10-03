@@ -37,4 +37,4 @@ $produk4->harga = 2500000;
 echo "Komik : " . $produk3->getlabel();
 
 echo "<br>";
-echo "Game : " . $produk4->getlabel();
+echo "Game :  " . $produk4->getlabel();
